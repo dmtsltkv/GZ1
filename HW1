@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+class MC
+{
+  pablic:
+    MC();
+    `MC();
+};
+MC::MC()
+{
+  cout<<"Конструктор класс А"<<endl;
+}
+MC::`MC()
+{
+  cout<<"Диструктор класс А"<<endl;
+}
+
+int mail()
+{ MC obj;
+}
